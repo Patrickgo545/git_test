@@ -1,2 +1,4 @@
 Hello World
 Hello Odin Project
+
+Testing git commit (Removing the necessity to type -m)
